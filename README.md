@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PremSRajanampalle
 - 👀 I’m interested in Machine Learning, Deeplearning, AI, Nlp
 - 🌱 I’m currently learning Natural Language Processing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rsprem2006@gmail.com
 
 <!---
